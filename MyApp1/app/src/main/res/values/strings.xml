@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">R&amp;M</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ok_btn">Ok</string>
+    <string name="character_sheet">Character</string>
+    <string name="episode_sheet">Episode</string>
+    <string name="detail">Detailed</string>
+    <string name="view_fragment">Episodes</string>
+    <string name="main_fragment">Main</string>
+    <string name="comments_fragment">Comments</string>
+    <string name="comment_btn">Comment</string>
+    <string name="send_btn">Send</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="comment_edit">Write comment</string>
+    <string name="tv_name_dialog">Rate the series</string>
+    <string name="tv_no_internet">No internet connection!</string>
+    <string name="character_name">Character name:</string>
+    <string name="character_species">Character species:</string>
+    <string name="character_gender">Character gender:</string>
+    <string name="episode_name">Name:</string>
+    <string name="episode_count">Series:</string>
+    <string name="air_date">Air date:</string>
+    <string name="episode">Episode:</string>
+    <string name="toast_vm">Please, write a comment!</string>
+    <string name="toast_vm_2">Comment sent</string>
+    <string name="toast_vm_3">Comment removed</string>
+    <string name="comment_item">Rating:</string>
+    <string name="comment_item_1">Comments text:</string>
+    <string name="comment_item_2">There are no reviews yet!</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">R&amp;M</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ok_btn">Понятно</string>
+    <string name="character_sheet">Персонаж</string>
+    <string name="episode_sheet">Эпизод</string>
+    <string name="detail">Подробнее</string>
+    <string name="view_fragment">Эпизоды</string>
+    <string name="main_fragment">Главная</string>
+    <string name="comments_fragment">Отзывы</string>
+    <string name="comment_btn">Отзыв</string>
+    <string name="send_btn">Отправить</string>
+    <string name="cancel_btn">Отменить</string>
+    <string name="comment_edit">Напишите комментарий</string>
+    <string name="tv_name_dialog">Оцените серию</string>
+    <string name="tv_no_internet">Нет интернет соединения!</string>
+    <string name="character_name">Имя персонажа:</string>
+    <string name="character_species">Вид персонажа:</string>
+    <string name="character_gender">Пол персонажа:</string>
+    <string name="episode_name">Название:</string>
+    <string name="episode_count">Серия:</string>
+    <string name="air_date">Дата выхода:</string>
+    <string name="episode">Эпизод:</string>
+    <string name="toast_vm">Пожалуйста, оставьте комментарий!</string>
+    <string name="toast_vm_2">Комментарий отправлен</string>
+    <string name="toast_vm_3">Комментарий удалён</string>
+    <string name="comment_item">Рейтинг:</string>
+    <string name="comment_item_1">Текст комментария:</string>
+    <string name="comment_item_2">Отзывов пока нет!</string>
+</resources>
